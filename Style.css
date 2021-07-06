@@ -79,3 +79,11 @@ footerBG {
 #form {
     text-align: center;
 }
+.Apendics {
+    width: 6%;
+    padding: 20px;
+    margin-right: 5%;
+    margin-left: 5%;
+    border: 10px round white;
+    border-radius: 10px;
+}
